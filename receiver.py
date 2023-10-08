@@ -1,3 +1,5 @@
+#receiver.py
+
 from vidstream import StreamingServer
 import threading
 
