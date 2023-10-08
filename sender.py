@@ -1,3 +1,4 @@
+#sender.py
 from vidstream import ScreenShareClient
 import threading
 
